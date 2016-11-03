@@ -1,0 +1,20 @@
+=encoding utf8
+
+=head1 The Freecell Pro List of Intractable Deals
+
+This is the list of deals in the Microsoft Freecell / Freecell Pro first 8 giga
+deals that are not known whether they are solvable or not.
+
+For more information, see:
+
+=over 4
+
+=item * L<https://groups.yahoo.com/neo/groups/fc-solve-discuss/conversations/messages/1466>
+
+=back
+
+=head1 LICENSE
+
+License is the MIT/Expat license.
+
+=cut
