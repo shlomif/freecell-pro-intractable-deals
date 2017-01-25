@@ -3,7 +3,7 @@
 =head1 The Freecell Pro List of Intractable Deals
 
 This is the list of deals in the Microsoft Freecell / Freecell Pro first 8 giga
-deals that are not known whether they are solvable or not.
+deals that were not known whether they are solvable or not with 4 freecells.
 
 For more information, see:
 
@@ -12,6 +12,10 @@ For more information, see:
 =item * L<https://groups.yahoo.com/neo/groups/fc-solve-discuss/conversations/messages/1466>
 
 =back
+
+These deals have later been determined to be solvable or not - see
+L<https://github.com/shlomif/freecell-pro-impossible-deals> and
+L<http://fc-solve.shlomifish.org/charts/fc-pro--4fc-deals-solvability--report/> .
 
 =head1 LICENSE
 
